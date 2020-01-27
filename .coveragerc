@@ -1,0 +1,5 @@
+[run]
+omit =*/.local/*
+# removing files from local directory
+       */test/*
+# removing test folder
