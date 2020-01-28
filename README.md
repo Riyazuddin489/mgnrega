@@ -7,6 +7,9 @@ it consist of three roles:
 2. Gram Panchayat Member
 3. Member
 
+credentials for BDO:
+user name - SAMPLE_BDO
+password - pass
 ```
 ## Download
 
